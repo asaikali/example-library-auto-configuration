@@ -12,6 +12,7 @@
     <modules>
         <module>greeting-library</module>
         <module>example-greeting-application</module>
+        <module>greeting-library-boot-autconfigure</module>
     </modules>
 
 
